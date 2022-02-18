@@ -1,0 +1,8 @@
+C:\Users\shiva\source\repos\Calculate Fibonacci Series\Calculate Fibonacci Series\bin\Debug\Calculate Fibonacci Series.exe.config
+C:\Users\shiva\source\repos\Calculate Fibonacci Series\Calculate Fibonacci Series\bin\Debug\Calculate Fibonacci Series.exe
+C:\Users\shiva\source\repos\Calculate Fibonacci Series\Calculate Fibonacci Series\bin\Debug\Calculate Fibonacci Series.pdb
+C:\Users\shiva\source\repos\Calculate Fibonacci Series\Calculate Fibonacci Series\obj\Debug\Calculate Fibonacci Series.csproj.AssemblyReference.cache
+C:\Users\shiva\source\repos\Calculate Fibonacci Series\Calculate Fibonacci Series\obj\Debug\Calculate Fibonacci Series.csproj.SuggestedBindingRedirects.cache
+C:\Users\shiva\source\repos\Calculate Fibonacci Series\Calculate Fibonacci Series\obj\Debug\Calculate Fibonacci Series.csproj.CoreCompileInputs.cache
+C:\Users\shiva\source\repos\Calculate Fibonacci Series\Calculate Fibonacci Series\obj\Debug\Calculate Fibonacci Series.exe
+C:\Users\shiva\source\repos\Calculate Fibonacci Series\Calculate Fibonacci Series\obj\Debug\Calculate Fibonacci Series.pdb
